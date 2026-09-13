@@ -23,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hello! I am an IT student focusing on modern web development, cross-platform mobile apps. I love turning complex problems into clean, interactive, and functional code.<br><br>- 🔭 Current Focus: Advanced React patterns, Flutter apps.<br>- ⚙️ Workflow: Agile development, Component-driven UI design in Figma, and clean architecture.<br>- 💬 Ask me about: Web development, or UI/UX prototyping.</p>
+<p data-importer="text" align="left">Hello! I am an IT student focusing on modern web development, cross-platform mobile apps. I love turning complex problems into clean, interactive, and functional code.<br><br>- 🔭 Current Focus: Advanced React patterns, Flutter apps.<br>- ⚙️ Workflow: Component-driven UI design in Figma, and clean architecture.<br>- 💬 Ask me about: Web development, or UI/UX prototyping.</p>
 
 ###
 
